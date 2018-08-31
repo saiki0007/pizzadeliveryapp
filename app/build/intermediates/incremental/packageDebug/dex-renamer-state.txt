@@ -1,0 +1,7 @@
+#Tue Jul 04 13:05:49 IST 2017
+base.0=E\:\\Android\\Pizzaex\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_126ecb5f58b51d06a77f757229e6e22dfed342dc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\Pizzaex\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab112fb9f72f7c22391fea156e563a485c688207\\classes.dex
+base.1=E\:\\Android\\Pizzaex\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab112fb9f72f7c22391fea156e563a485c688207
+file.0=E\:\\Android\\Pizzaex\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_126ecb5f58b51d06a77f757229e6e22dfed342dc\\classes.dex
